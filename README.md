@@ -17,11 +17,7 @@ A FIAP é um Centro Universitário com conceito máximo pelo MEC, referência em
 
 ---
 ### Objetivo
-Neste desafio, você deverá utilizar a ferramenta da IBM de inteligência artificial aplicada à busca cognitiva em bases de dados, Watson Discovery, para criar um modelo capaz de recomendar artigos ou vídeos baseados no interesse do usuário. Sua tarefa será estruturar documentos e treinar diversas buscas para esses documentos no serviço.
-
----
-## Video dinâmico
-![Jair de Oliveira Soares - Google Chrome 2020-07-15 12-02-04](https://user-images.githubusercontent.com/64690628/87569043-f7094880-c69c-11ea-9173-fe81f20ebb7a.gif)
+- Neste desafio, você deverá utilizar a ferramenta da IBM de inteligência artificial aplicada à busca cognitiva em bases de dados, Watson Discovery, para criar um modelo capaz de recomendar artigos ou vídeos baseados no interesse do usuário. Sua tarefa será estruturar documentos e treinar diversas buscas para esses documentos no serviço.
 
 ---
 ## 🚀 Tecnologias utilizadas
